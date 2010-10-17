@@ -1,22 +1,11 @@
 package Task::Lingua::PT;
-
-use warnings;
 use strict;
+
+our $VERSION = '0.02';
 
 =head1 NAME
 
 Task::Lingua::PT - Replacement for the PT NLP tools Bundle
-
-=head1 VERSION
-
-Version 0.01
-
-=cut
-
-use vars qw{$VERSION};
-BEGIN {
-    $VERSION = '0.01';
-}
 
 =head1 SYNOPSIS
 
